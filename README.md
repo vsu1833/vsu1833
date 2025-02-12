@@ -1,8 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack and AI/ML development<br>🌱 I’m currently learning Machine Learning<br>
+<br>🌱 I’m a DSA enthusiast .<br>
+🔭 I’m currently working on Full stack and AI/ML development .
+<br>🌱 I’m currently learning Machine Learning .<br>
 
 
 ## 🌐 Socials:
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A98F.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/virajstrive/?ref=header_profile) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Past_Boysenberry_515) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virajupadhyay16@gmail.com) 
 
 # 💻 Tech Stack:
