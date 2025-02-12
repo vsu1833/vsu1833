@@ -13,16 +13,16 @@
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td width="48%">
-      <img src="https://github-readme-stats.vercel.app/api?username=vsu1833&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vsu1833&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false"/>
     </td>
-    <td width="52%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsu1833&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsu1833&theme=github_dark_dimmed&hide_border=false"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsu1833&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </td>
   </tr>
 </table>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vsu1833&theme=github_dark_dimmed&hide_border=false)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
