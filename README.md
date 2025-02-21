@@ -17,12 +17,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=vsu1833&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsu1833&theme=github_dark_dimmed&hide_border=false"/>
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsu1833&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </td>
   </tr>
 </table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
