@@ -1,7 +1,6 @@
-# 💫 About Me:
-<br>🌱 I’m a DSA enthusiast .<br>
-🔭 I’m currently working on Full stack and AI/ML development .
-<br>🌱 I’m currently learning Machine Learning .<br>
+#  About Me:
+ Hi! I'm a tech enthusiast passionate about Data Structures & Algorithms, and currently diving deep into Full Stack Development and AI/ML.
+ Always eager to learn, build, and grow with new technologies.
 
 
 ## 🌐 Socials:
