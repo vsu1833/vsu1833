@@ -1,4 +1,4 @@
-# 👋 Hi, this is Viraj
+#  Hi, this is Viraj
 
 ---
 
