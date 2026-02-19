@@ -4,7 +4,7 @@
 
 ## 🌍 Profiles  
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/virajstrive/?ref=header_profile)  
-- [LeetCode](https://leetcode.com)
+- [LeetCode](https://leetcode.com/u/Viraj_Upadhyay/)
 
 ---
 
